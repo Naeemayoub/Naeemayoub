@@ -4,4 +4,3 @@
 - 👯 I’m looking to collaborate on any of the data-science, computer vision, Extended reality projects and also open to other projects.
 - 💬 Ask me about any data-science and computer vision and automation related question and i will be happy to help.
 - ⚡ Fun fact: I enjoy walking with coffee when i am not coding.
--->
