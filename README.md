@@ -5,4 +5,4 @@
 - 💬 Ask me about any data-science, computer vision and automation related question and i will be happy to help.
 - ⚡ Fun fact: I enjoy walking with coffee when i am not coding.
 - # Background
-- 
+    I am PhD in Computer Application Technology. I have 4 years of Postdoc Experience and successfully completed different projects. I am self motivated and I flexible to work individual as well as in the team. I also like to contribute with other project and introduce my own ideas where it is needed during collaboration.
