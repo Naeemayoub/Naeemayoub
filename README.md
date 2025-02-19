@@ -1,8 +1,8 @@
-- 🌱 I’m currently learning Automation, PLC (Ladder Loggic) programming, Digital twins, Virtual Reality and Extended Reality.
+- 🌱 I’m currently learning Automation, Digital twins.
 - 🤔 I’m experienced in Computer vision, Data Science , Machine Learning and Project Management.
-- 👯 I’m looking to collaborate on any of the data-science, computer vision, Extended reality projects and also open to other projects.
+- 👯 I’m looking to collaborate on any of the data-science, computer vision.
 - 💬 Ask me about any data-science, computer vision and automation related question and i will be happy to help.
-- ⚡ Fun fact: I enjoy walking with coffee when i am not coding.
+
 - # Background
     I have Ph.D. in Computer Applications Technology from Dalian university of Technology, Dalian, China. I have 4 years of Postdoc experience of working on saveral projects realted to Data science, computer vision and machine learning. I am self motivated and have flexible mindset of working individually as well as in the team. I also like to contribute with other projects and introduce my own ideas where it is needed during collaboration.
 
